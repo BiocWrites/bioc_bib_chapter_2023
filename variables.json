@@ -1,0 +1,91 @@
+{
+  "pandoc": {
+    "title": "Manuscript Title",
+    "keywords": [
+      "markdown",
+      "publishing",
+      "manubot"
+    ],
+    "lang": "en-US",
+    "date-meta": "2023-11-01",
+    "author-meta": [
+      "Vincent J. Carey",
+      "Sean Davis"
+    ],
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2023-11-01\" />\n<meta name=\"citation_publication_date\" content=\"2023-11-01\" />\n<meta property=\"article:published_time\" content=\"2023-11-01\" />\n<meta name=\"dc.modified\" content=\"2023-11-01T22:52:33+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-11-01T22:52:33+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Vincent J. Carey\" />\n<meta name=\"citation_author_institution\" content=\"Channing Lab, Harvard\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"citation_author\" content=\"Sean Davis\" />\n<meta name=\"citation_author_institution\" content=\"University of Colorado Anschutz School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8991-6458\" />\n<link rel=\"canonical\" href=\"https://BiocWrites.github.io/bioc_bib_chapter_2023/\" />\n<meta property=\"og:url\" content=\"https://BiocWrites.github.io/bioc_bib_chapter_2023/\" />\n<meta property=\"twitter:url\" content=\"https://BiocWrites.github.io/bioc_bib_chapter_2023/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://BiocWrites.github.io/bioc_bib_chapter_2023/\" />\n<meta name=\"citation_pdf_url\" content=\"https://BiocWrites.github.io/bioc_bib_chapter_2023/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://BiocWrites.github.io/bioc_bib_chapter_2023/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://BiocWrites.github.io/bioc_bib_chapter_2023/v/e9175e1d76d4df0cf12ccade6e975c501ef95358/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://BiocWrites.github.io/bioc_bib_chapter_2023/v/e9175e1d76d4df0cf12ccade6e975c501ef95358/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://BiocWrites.github.io/bioc_bib_chapter_2023/v/e9175e1d76d4df0cf12ccade6e975c501ef95358/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "bibliography": [
+      "content/manual-references.json"
+    ],
+    "manubot-output-bibliography": "output/references.json",
+    "manubot-output-citekeys": "output/citations.tsv",
+    "manubot-requests-cache-path": "ci/cache/requests-cache",
+    "manubot-clear-requests-cache": false
+  },
+  "manubot": {
+    "date": "2023-11-01",
+    "date_long": "November 1, 2023",
+    "generated": "2023-11-01T22:52:33+00:00",
+    "generated_date_long": "November 1, 2023",
+    "randomize_author_order": false,
+    "authors": [
+      {
+        "github": "vjcitn",
+        "name": "Vincent J. Carey",
+        "initials": "VJC",
+        "orcid": "XXXX-XXXX-XXXX-XXXX",
+        "affiliations": [
+          "Channing Lab, Harvard"
+        ],
+        "funders": [
+          "Grant XXXXXXXX"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "github": "seandavi",
+        "name": "Sean Davis",
+        "initials": "SD",
+        "orcid": "0000-0002-8991-6458",
+        "email": "seandavi@gmail.com",
+        "affiliations": [
+          "University of Colorado Anschutz School of Medicine"
+        ],
+        "corresponding": true,
+        "affiliation_numbers": [
+          2
+        ]
+      }
+    ],
+    "affiliations": [
+      {
+        "affiliation": "Channing Lab, Harvard",
+        "affiliation_number": 1
+      },
+      {
+        "affiliation": "University of Colorado Anschutz School of Medicine",
+        "affiliation_number": 2
+      }
+    ],
+    "ci_source": {
+      "provider": "github",
+      "repo_slug": "BiocWrites/bioc_bib_chapter_2023",
+      "repo_owner": "BiocWrites",
+      "repo_name": "bioc_bib_chapter_2023",
+      "commit": "e9175e1d76d4df0cf12ccade6e975c501ef95358",
+      "triggering_commit": "e9175e1d76d4df0cf12ccade6e975c501ef95358",
+      "build_url": "https://github.com/BiocWrites/bioc_bib_chapter_2023/commit/e9175e1d76d4df0cf12ccade6e975c501ef95358/checks",
+      "job_url": "https://github.com/BiocWrites/bioc_bib_chapter_2023/actions/runs/6725981028"
+    },
+    "html_url": "https://BiocWrites.github.io/bioc_bib_chapter_2023/",
+    "pdf_url": "https://BiocWrites.github.io/bioc_bib_chapter_2023/manuscript.pdf",
+    "html_url_versioned": "https://BiocWrites.github.io/bioc_bib_chapter_2023/v/e9175e1d76d4df0cf12ccade6e975c501ef95358/",
+    "pdf_url_versioned": "https://BiocWrites.github.io/bioc_bib_chapter_2023/v/e9175e1d76d4df0cf12ccade6e975c501ef95358/manuscript.pdf",
+    "manubot_version": "0.5.6",
+    "rootstock_commit": "48c7d75849f6fa24b2c2d6a529edc028f1b2d029",
+    "manuscript_stats": {
+      "word_count": 473
+    }
+  }
+}
