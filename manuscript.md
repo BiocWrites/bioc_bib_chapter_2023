@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-02" />
   <meta name="citation_publication_date" content="2023-11-02" />
   <meta property="article:published_time" content="2023-11-02" />
-  <meta name="dc.modified" content="2023-11-02T00:56:34+00:00" />
-  <meta property="article:modified_time" content="2023-11-02T00:56:34+00:00" />
+  <meta name="dc.modified" content="2023-11-02T01:49:47+00:00" />
+  <meta property="article:modified_time" content="2023-11-02T01:49:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/" />
   <meta name="citation_pdf_url" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://BiocWrites.github.io/bioc_bib_chapter_2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/f693a9b753320e8e4f3be863c0a72aedf2056cca/" />
-  <meta name="manubot_html_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/f693a9b753320e8e4f3be863c0a72aedf2056cca/" />
-  <meta name="manubot_pdf_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/f693a9b753320e8e4f3be863c0a72aedf2056cca/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/9df38fcf9c60d8f73b9b1a30ceabc317d8b99aa3/" />
+  <meta name="manubot_html_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/9df38fcf9c60d8f73b9b1a30ceabc317d8b99aa3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/9df38fcf9c60d8f73b9b1a30ceabc317d8b99aa3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://BiocWrites.github.io/bioc_bib_chapter_2023/v/f693a9b753320e8e4f3be863c0a72aedf2056cca/))
+([permalink](https://BiocWrites.github.io/bioc_bib_chapter_2023/v/9df38fcf9c60d8f73b9b1a30ceabc317d8b99aa3/))
 was automatically generated
-from [BiocWrites/bioc_bib_chapter_2023@f693a9b](https://github.com/BiocWrites/bioc_bib_chapter_2023/tree/f693a9b753320e8e4f3be863c0a72aedf2056cca)
+from [BiocWrites/bioc_bib_chapter_2023@9df38fc](https://github.com/BiocWrites/bioc_bib_chapter_2023/tree/9df38fcf9c60d8f73b9b1a30ceabc317d8b99aa3)
 on November 2, 2023.
 </em></small>
 
@@ -121,7 +121,17 @@ Sean Davis \<seandavi@gmail.com\>.
 
 ## Results
 
+| Package | Category  | Reference  |
+|:-----------|:--------------------------------------:|:-------------:|
+| GEOquery | Access NCBI Gene Expression Omnibus | [@pubmed:17496320] |
+| TCGABioLinks | Access TCGA data | [@pubmed:26704973]
+
+Table: Packages described in this review.
+{#tbl:bioc-packages}
+
 ### How Bioconductor enhances cancer data reuse and value
+
+The GEOquery package 
 
 
 ### Multiassay cancer data integration using Bioconductor (MAE + viz, iSEE)
