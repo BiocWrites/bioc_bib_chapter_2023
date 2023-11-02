@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2023-11-01'
+date-meta: '2023-11-02'
 author-meta:
 - Vincent J. Carey
 - Sean Davis
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2023-11-01" />
-  <meta name="citation_publication_date" content="2023-11-01" />
-  <meta property="article:published_time" content="2023-11-01" />
-  <meta name="dc.modified" content="2023-11-01T22:52:33+00:00" />
-  <meta property="article:modified_time" content="2023-11-01T22:52:33+00:00" />
+  <meta name="dc.date" content="2023-11-02" />
+  <meta name="citation_publication_date" content="2023-11-02" />
+  <meta property="article:published_time" content="2023-11-02" />
+  <meta name="dc.modified" content="2023-11-02T00:24:46+00:00" />
+  <meta property="article:modified_time" content="2023-11-02T00:24:46+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/" />
   <meta name="citation_pdf_url" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://BiocWrites.github.io/bioc_bib_chapter_2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/e9175e1d76d4df0cf12ccade6e975c501ef95358/" />
-  <meta name="manubot_html_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/e9175e1d76d4df0cf12ccade6e975c501ef95358/" />
-  <meta name="manubot_pdf_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/e9175e1d76d4df0cf12ccade6e975c501ef95358/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/a699c8cb37712e9a98f3c9b04c6a89091b036998/" />
+  <meta name="manubot_html_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/a699c8cb37712e9a98f3c9b04c6a89091b036998/" />
+  <meta name="manubot_pdf_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/a699c8cb37712e9a98f3c9b04c6a89091b036998/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://BiocWrites.github.io/bioc_bib_chapter_2023/v/e9175e1d76d4df0cf12ccade6e975c501ef95358/))
+([permalink](https://BiocWrites.github.io/bioc_bib_chapter_2023/v/a699c8cb37712e9a98f3c9b04c6a89091b036998/))
 was automatically generated
-from [BiocWrites/bioc_bib_chapter_2023@e9175e1](https://github.com/BiocWrites/bioc_bib_chapter_2023/tree/e9175e1d76d4df0cf12ccade6e975c501ef95358)
-on November 1, 2023.
+from [BiocWrites/bioc_bib_chapter_2023@a699c8c](https://github.com/BiocWrites/bioc_bib_chapter_2023/tree/a699c8cb37712e9a98f3c9b04c6a89091b036998)
+on November 2, 2023.
 </em></small>
 
 
