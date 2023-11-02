@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-02" />
   <meta name="citation_publication_date" content="2023-11-02" />
   <meta property="article:published_time" content="2023-11-02" />
-  <meta name="dc.modified" content="2023-11-02T00:24:46+00:00" />
-  <meta property="article:modified_time" content="2023-11-02T00:24:46+00:00" />
+  <meta name="dc.modified" content="2023-11-02T00:56:34+00:00" />
+  <meta property="article:modified_time" content="2023-11-02T00:56:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/" />
   <meta name="citation_pdf_url" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://BiocWrites.github.io/bioc_bib_chapter_2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/a699c8cb37712e9a98f3c9b04c6a89091b036998/" />
-  <meta name="manubot_html_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/a699c8cb37712e9a98f3c9b04c6a89091b036998/" />
-  <meta name="manubot_pdf_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/a699c8cb37712e9a98f3c9b04c6a89091b036998/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/f693a9b753320e8e4f3be863c0a72aedf2056cca/" />
+  <meta name="manubot_html_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/f693a9b753320e8e4f3be863c0a72aedf2056cca/" />
+  <meta name="manubot_pdf_url_versioned" content="https://BiocWrites.github.io/bioc_bib_chapter_2023/v/f693a9b753320e8e4f3be863c0a72aedf2056cca/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://BiocWrites.github.io/bioc_bib_chapter_2023/v/a699c8cb37712e9a98f3c9b04c6a89091b036998/))
+([permalink](https://BiocWrites.github.io/bioc_bib_chapter_2023/v/f693a9b753320e8e4f3be863c0a72aedf2056cca/))
 was automatically generated
-from [BiocWrites/bioc_bib_chapter_2023@a699c8c](https://github.com/BiocWrites/bioc_bib_chapter_2023/tree/a699c8cb37712e9a98f3c9b04c6a89091b036998)
+from [BiocWrites/bioc_bib_chapter_2023@f693a9b](https://github.com/BiocWrites/bioc_bib_chapter_2023/tree/f693a9b753320e8e4f3be863c0a72aedf2056cca)
 on November 2, 2023.
 </em></small>
 
@@ -117,25 +117,31 @@ Sean Davis \<seandavi@gmail.com\>.
 
 
 
-## How Bioconductor enhances cancer data reuse and value - workshop exists (Levi)
+## Introduction
+
+## Results
+
+### How Bioconductor enhances cancer data reuse and value
 
 
-## Multiassay cancer data integration using Bioconductor (MAE + viz, iSEE)
+### Multiassay cancer data integration using Bioconductor (MAE + viz, iSEE)
 
 
-## Copy number variation analysis (Workshop, DNAcopy, PureCN, CNVRanger, Sehyun, Ludwig)
+### Copy number variation analysis (Workshop, DNAcopy, PureCN, CNVRanger, Sehyun, Ludwig)
 
 
-## Approaches to providing reproducible, reusable, robust software for cancer data science (VC)
+### Approaches to providing reproducible, reusable, robust software for cancer data science (VC)
 
 
-## Bioconductor approaches to single-cell and spatially resolved cancer data and analysis (Workshops, Ludwig, Davide)
+### Bioconductor approaches to single-cell and spatially resolved cancer data and analysis (Workshops, Ludwig, Davide)
 
 
-## Pharmacogenomics resources in Bioconductor (Ben HK)
+### Pharmacogenomics resources in Bioconductor (Ben HK)
 
 
-## bibliometrics as code (MM) -- maybe
+### bibliometrics as code (MM) -- maybe
+
+
 
 
 
