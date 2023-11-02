@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/BiocWrites/bioc_bib_chapter_2023/tree/gh-pages) branch hosts the contents of this directory at <https://BiocWrites.github.io/bioc_bib_chapter_2023/>.
-The permalink for this webpage version is <https://BiocWrites.github.io/bioc_bib_chapter_2023/v/e9175e1d76d4df0cf12ccade6e975c501ef95358/>.
+The permalink for this webpage version is <https://BiocWrites.github.io/bioc_bib_chapter_2023/v/a699c8cb37712e9a98f3c9b04c6a89091b036998/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://BiocWrites.github.io/bioc_bib_chapter_2023/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`e9175e1d76d4df0cf12ccade6e975c501ef95358`](https://github.com/BiocWrites/bioc_bib_chapter_2023/commit/e9175e1d76d4df0cf12ccade6e975c501ef95358).
+[`a699c8cb37712e9a98f3c9b04c6a89091b036998`](https://github.com/BiocWrites/bioc_bib_chapter_2023/commit/a699c8cb37712e9a98f3c9b04c6a89091b036998).
